@@ -80,3 +80,7 @@ Additional security, privacy, and reliability testing is required before product
 Junior AI Automation Developer
 
 GitHub: [ai-sulaimanovalan](https://github.com/ai-sulaimanovalan)
+
+## Project Documentation
+
+[View Project Portfolio (PDF)](<./AI Service Assistant - Описание проекта.pdf>)
