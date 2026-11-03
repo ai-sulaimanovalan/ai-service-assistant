@@ -84,3 +84,20 @@ GitHub: [ai-sulaimanovalan](https://github.com/ai-sulaimanovalan)
 ## Project Documentation
 
 [View Project Portfolio (PDF)](<./AI Service Assistant - Описание проекта.pdf>)
+
+## Project Screenshots
+
+### 1. AI Customer Consultation
+![AI Consultation](./01_AI_Consultation.png)
+
+### 2. Automated Repair Request Registration
+![Google Sheets Requests](./02_Google_Sheets_Requests.png)
+
+### 3. Conversation Memory
+![Conversation Memory](./03_Conversation_Memory.png)
+
+### 4. Human Handoff
+![Human Handoff](./04_Human_Handoff.png)
+
+### 5. Make.com Workflow Architecture
+![Make Architecture](./05_Make_Architecture.png)
